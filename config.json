@@ -1,10 +1,10 @@
 {
-    "token": "Nzg4ODI1MzE1MzA0Mjc1OTY4.YEEnWw.dTt5Y41G8-o8ZP4Fkkfwh9Vp42c",
-    "serv": "817100589246578698",
+    "token": "TOKEN",
+    "serv": "ID DU SERVER",
     "webhook": {
-        "name": "LOWKI RAID",
-        "avatar": "https://cdn.discordapp.com/attachments/799743201413693521/804043835306934312/R3812132e89d45c6bb63bf727b36173c0.gif",
-        "spamMsg": "discord.gg/zep  @everyone"
+        "name": "NOM DU WEBHOOK",
+        "avatar": "LIEN DE LA PP",
+        "spamMsg": "MESSAGE"
     },
     "ChannellMsgCount": "900",
     "sleepMS": "1"
