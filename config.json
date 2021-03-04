@@ -1,11 +1,11 @@
 {
-    "token": "TOKEN",
-    "serv": "SERVEUR ID",
+    "token": "Nzg4ODI1MzE1MzA0Mjc1OTY4.YEEnWw.dTt5Y41G8-o8ZP4Fkkfwh9Vp42c",
+    "serv": "817100589246578698",
     "webhook": {
-        "name": "SNAKE",
+        "name": "LOWKI RAID",
         "avatar": "https://cdn.discordapp.com/attachments/799743201413693521/804043835306934312/R3812132e89d45c6bb63bf727b36173c0.gif",
-        "spamMsg": "**JOIN** : https://discord.gg/3dgBtnnG  @everyone"
+        "spamMsg": "discord.gg/zep  @everyone"
     },
-    "ChannellMsgCount": "300",
+    "ChannellMsgCount": "900",
     "sleepMS": "1"
 }
